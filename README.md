@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java and springboot<br>Java<br>Java<br>Java
+Java and springboot<br>Learing About core java and OOPs<br>Learning Data structure and algorithm and Problem solving <br>Making some core java projects using only oops and concepts
 
 
 # 💻 Tech Stack:
