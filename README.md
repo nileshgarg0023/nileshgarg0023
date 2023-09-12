@@ -1,5 +1,31 @@
 # 💫 About Me:
-Java and springboot<br>Learing About core java and OOPs<br>Learning Data structure and algorithm and Problem solving <br>Making some core java projects using only oops and concepts
+
+👋 Hello there! I'm Nilesh Garg, a passionate backend developer with a strong proficiency in a variety of technologies that power the server-side of web applications. With a focus on building robust and scalable backend systems, I bring a wealth of experience and expertise to the table.
+
+### What I Love To Do
+
+- **Backend Development:** I specialize in building the backbone of web applications. Whether it's using Nest.js, Express.js, or Node.js, I'm committed to crafting efficient, secure, and high-performance server-side solutions.
+
+- **Databases:** I have a deep understanding of both relational databases like MySQL and NoSQL databases like MongoDB. Leveraging their strengths, I design data storage solutions that fit the unique needs of each project.
+
+- **TypeScript & JavaScript:** I'm a firm believer in the power of TypeScript and JavaScript. I write clean, maintainable, and well-documented code, always striving to adhere to best practices.
+
+### What You Can Expect
+
+- **Reliability:** I take pride in writing code that works flawlessly. You can count on me to deliver software that is stable, performant, and meets your project requirements.
+
+- **Problem Solving:** I enjoy tackling complex challenges and finding innovative solutions. From optimizing database queries to debugging intricate issues, I'm up for the task.
+
+- **Collaboration:** Effective teamwork is key to successful projects. I'm a great communicator and thrive in collaborative environments, working seamlessly with frontend developers, designers, and other stakeholders.
+
+### Let's Connect!
+
+I'm always open to new opportunities and collaborations. Whether you have a project in mind, want to discuss a potential partnership, or just want to chat about technology, feel free to reach out to me. Let's connect and build amazing things together!
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-YourGitHubUsername-181717?style=for-the-badge&logo=github)](https://github.com/nileshgarg0023)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nilesh-garg-b645a7189)
+[![Email Badge](https://img.shields.io/badge/Email-YourEmail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nileshgarg0023@gmail.com)
+
 
 
 # 💻 Tech Stack:
