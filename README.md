@@ -22,9 +22,9 @@
 
 I'm always open to new opportunities and collaborations. Whether you have a project in mind, want to discuss a potential partnership, or just want to chat about technology, feel free to reach out to me. Let's connect and build amazing things together!
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-YourGitHubUsername-181717?style=for-the-badge&logo=github)](https://github.com/nileshgarg0023)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nilesh-garg-b645a7189)
-[![Email Badge](https://img.shields.io/badge/Email-YourEmail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nileshgarg0023@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-nileshgarg0023-181717?style=for-the-badge&logo=github)](https://github.com/nileshgarg0023)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-nilesh-garg-b645a7189-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nilesh-garg-b645a7189)
+[![Email Badge](https://img.shields.io/badge/Email-nileshgarg0023@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nileshgarg0023@gmail.com)
 
 
 
